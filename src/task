@@ -1,2 +1,10 @@
+Date : 01/01/2025
+Time : 08 HRS
+
+Today's Log :
 HTTP Methods :
-Get :Using axios  Fetch Data &  Display Data
+Put :Using axios  Update Data
+
+Create a viteApp : Crud Operation using axios and jsonplaceholder Api's 
+
+GET : "https://jsonplaceholder.typicode.com/users"
